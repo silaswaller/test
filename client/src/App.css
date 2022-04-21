@@ -1,0 +1,42 @@
+.App {
+  text-align: left;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.container{
+  margin: 0 auto;
+  width: 300px
+}
+
+.purple{
+  color: #9749ff;
+}
+
+.blueButton{
+  background-color: #66bbff;
+  color: white;
+  font-weight: bold;
+  align-items: right;
+  margin: 10px 10px 10px 0px;
+  border: 4px solid #66bbff;
+  border-radius: 6px;
+}
+
+.blueLink {
+  color: blue;
+}
+
+#outerBox {
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+input {
+  margin-top: 5px;
+}
+
+.deleteButton {
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
